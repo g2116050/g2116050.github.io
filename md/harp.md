@@ -58,10 +58,10 @@
 - 4年次
 	- 卒業研究
 
-<!-- <section data-background="/home/b1012104/Pictures/ecmnet.png" data-background-position="center top 50px" data-background-size="500px">-->
+<!-- <section data-background="/images/ecmnet.png" data-background-position="center top 50px" data-background-size="500px">-->
 
 ---
-<section data-background="/home/b1012104/Pictures/ecmnet.png" style="font-size:40px">
+<section data-background="/images/ecmnet.png" style="font-size:40px">
 ## 素因数分解プロジェクト
 - 目的
 	- 巨大な素因数を発見し、ランキングに掲載される
@@ -113,7 +113,7 @@
 	- 意外と積極的に動いてはくれない
 
 ---
-<section data-background="/home/b1012104/tex/gradrepo/final/ec.png">
+<section data-background="/images/ec.png">
 ## 卒業研究(4年次)
 - 白勢研究室を選択
 	- 暗号がテーマ
@@ -141,7 +141,7 @@
 
 --
 ## 共通鍵暗号の並列化
-<center>![Block](/home/b1012104/Pictures/Study/presentation/parallel1.png)</center>
+<center>![Block](/images/parallel1.png)</center>
 
 --
 ## IDベース鍵共有の実用性の検討
